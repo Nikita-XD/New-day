@@ -203,3 +203,5 @@ while run:
 
 
     display.update()
+
+#ХМХМ ДОРОГИЕ ДРЕЗЬЯ
